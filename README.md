@@ -21,6 +21,12 @@ Data written into one organization may or may not be able to be read in the othe
 
 Using the mode not corresponding to the chip organization will result in undefined behaviour.
 
+## Installation and use
+
+To use this code download the the code in zip format to your local arduino libraries directory
+For example; 'My documents/Arduino/libraries'
+Start the Arduino IDE and go to 'File->Examples->Arduino_93C46-master'and make your choice 'read' or 'write'.
+
 ## Methods
 
 | Method | Returns | EW required | Description |
